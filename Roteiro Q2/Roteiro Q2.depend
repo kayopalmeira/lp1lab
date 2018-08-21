@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1534310450 source:c:\users\samsung\desktop\ide's\projects\lp1\roteiro 2\main.cpp
+	<iostream>
+	<string>
+	"Invoice.h"
+
+1534310952 c:\users\samsung\desktop\ide's\projects\lp1\roteiro 2\include\invoice.h
+	<string>
+
+1534311019 source:c:\users\samsung\desktop\ide's\projects\lp1\roteiro 2\src\invoice.cpp
+	"Invoice.h"
+

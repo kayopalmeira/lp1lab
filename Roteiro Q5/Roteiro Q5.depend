@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1534786292 source:c:\users\samsung\desktop\ide's\projects\lp1\roteiro q5\src\despesa.cpp
+	"Despesa.h"
+
+1534786320 c:\users\samsung\desktop\ide's\projects\lp1\roteiro q5\include\despesa.h
+	<string>
+
+1534786750 source:c:\users\samsung\desktop\ide's\projects\lp1\roteiro q5\src\controledegastos.cpp
+	"ControledeGastos.h"
+
+1534786750 c:\users\samsung\desktop\ide's\projects\lp1\roteiro q5\include\controledegastos.h
+	"Despesa.h"
+
+1534786698 source:c:\users\samsung\desktop\ide's\projects\lp1\roteiro q5\main.cpp
+	<iostream>
+	"ControledeGastos.h"
+	<string>
+

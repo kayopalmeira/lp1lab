@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1533596319 source:d:\lucas\documents\programação\roteiro 1\main.cpp
+	<iostream>
+	"Data.h"
+
+1533596412 source:d:\lucas\documents\programação\roteiro 1\src\data.cpp
+	"Data.h"
+
+1533595211 d:\lucas\documents\programação\roteiro 1\include\data.h
+

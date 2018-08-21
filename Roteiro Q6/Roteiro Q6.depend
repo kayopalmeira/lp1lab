@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1534819545 source:c:\users\samsung\desktop\ide's\projects\lp1\roteiro q6\src\pagamento.cpp
+	"Pagamento.h"
+
+1534818309 c:\users\samsung\desktop\ide's\projects\lp1\roteiro q6\include\pagamento.h
+	<string>
+
+1534820165 source:c:\users\samsung\desktop\ide's\projects\lp1\roteiro q6\main.cpp
+	<iostream>
+	<string>
+	"ControleDePagamentos.h"
+
+1534820251 c:\users\samsung\desktop\ide's\projects\lp1\roteiro q6\include\controledepagamentos.h
+	"Pagamento.h"
+
